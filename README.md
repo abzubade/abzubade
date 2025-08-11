@@ -6,7 +6,7 @@ IT Security Analyst
 
 I am an aspiring cybersecurity professional with a strong focus on vulnerability management, remediation, and threat hunting. Over the course of my experience, I have developed a solid foundation in identifying system weaknesses, analyzing potential threats, and implementing effective defense strategies to protect digital assets.
 
-In addition to vulnerability and threat-focused work, I have also been responsible for reviewing phishing emails and creating targeted rules within email spam filters. This has helped limit the volume of malicious emails received, strengthen email security posture, and reduce the risk of user compromise through social engineering.
+In addition to vulnerability and threat-focused work, I have also been responsible for reviewing phishing emails and creating targeted rules within email spam filters. 
 
 To further strengthen my technical capabilities and gain hands-on experience, I’ve worked on several practical projects that reflect my growing expertise and commitment to cybersecurity. These projects have allowed me to refine key skills, including:
 
