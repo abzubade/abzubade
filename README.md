@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zubair Adekunle
+Zubair Adekunle
 =======================================================================================================================================
 
-IT Security Analyst 
+Cybersecurity Professional
 ----------------------
 
 I am an aspiring cybersecurity professional with a strong focus on vulnerability management, remediation, and threat hunting. Over the course of my experience, I have developed a solid foundation in identifying system weaknesses, analyzing potential threats, and implementing effective defense strategies to protect digital assets.
