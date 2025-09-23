@@ -1,7 +1,4 @@
-Zubair Adekunle
-=======================================================================================================================================
-
-Cybersecurity Professional
+Zubair Adekunle Cybersecurity Project Portfolio
 ----------------------
 
 Aspiring cybersecurity professional with hands-on experience in vulnerability management, threat hunting, and email security. I focus on identifying and remediating system weaknesses, analyzing threats, and improving detection workflows. My projects span vulnerability scanning, patch management, phishing analysis, and threat intel, using tools like EDR and custom email filtering rules. I'm passionate about solving real-world security challenges through practical, technical work—feel free to check out the projects where I put this into action.
@@ -11,7 +8,7 @@ Aspiring cybersecurity professional with hands-on experience in vulnerability ma
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation]
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
