@@ -4,19 +4,7 @@ Zubair Adekunle
 Cybersecurity Professional
 ----------------------
 
-I am an aspiring cybersecurity professional with a strong focus on vulnerability management, remediation, and threat hunting. Over the course of my experience, I have developed a solid foundation in identifying system weaknesses, analyzing potential threats, and implementing effective defense strategies to protect digital assets.
-
-In addition to vulnerability and threat-focused work, I have also been responsible for reviewing phishing emails and creating targeted rules within email spam filters. 
-
-To further strengthen my technical capabilities and gain hands-on experience, I’ve worked on several practical projects that reflect my growing expertise and commitment to cybersecurity. These projects have allowed me to refine key skills, including:
-
-<ul>
-  <li>Vulnerability scanning and prioritization</li>
-  <li>Patch management and remediation workflows</li>
-  <li>Email threat detection and filtering</li>
-  <li>Threat intelligence and hunting techniques</li>
-  <li>EDR tools and security monitoring</li>
-</ul>
+Aspiring cybersecurity professional with hands-on experience in vulnerability management, threat hunting, and email security. I focus on identifying and remediating system weaknesses, analyzing threats, and improving detection workflows. My projects span vulnerability scanning, patch management, phishing analysis, and threat intel, using tools like EDR and custom email filtering rules. I'm passionate about solving real-world security challenges through practical, technical work—feel free to check out the projects where I put this into action.
 
 * 🌍  I'm based in New Jersey
 * ✉️  You can contact me at [zubairoadekunle@gmail.com](mailto:zubairoadekunle@gmail.com)
