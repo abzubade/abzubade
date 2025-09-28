@@ -15,14 +15,18 @@ IT professional with client-facing experience supporting cloud technologies (AWS
 * 🌍  I'm based in New Jersey
 * ✉️  You can contact me at [zubairoadekunle@gmail.com](mailto:zubairoadekunle@gmail.com)
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️  Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/abzubade/vulnerability-management-lab)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨  Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/abzubade/Threat-Hunting-Project/tree/main)**
 
+## ☁️💻 Cloud Computing 
+
+- **[Using Amazon Maci to detect Sensitive Data in S3 buckets)](https://github.com/abzubade/Threat-Hunting-Project/tree/main)**
+  
 ---
 
 <h2>📜 Certifications:</h2>
