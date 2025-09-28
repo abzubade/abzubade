@@ -10,7 +10,7 @@
 
 ---
 
-IT professional with client-facing experience supporting cloud technologies (AWS, Azure, Microsoft 365) and driving reliable deployments, onboarding, and troubleshooting. Aspiring cybersecurity professional with hands-on experience in vulnerability management, threat hunting, and email security. Skilled at identifying and remediating system weaknesses, analyzing threats, and improving detection workflows. Experience includes vulnerability scanning, patch management, phishing analysis, and threat intelligence, leveraging tools such as EDR and custom email filtering. Passionate about solving real-world security challenges through practical, technical work—with ongoing projects showcasing this commitment and more to come.
+IT professional with client-facing experience supporting cloud technologies (AWS, Azure, Microsoft 365) and driving reliable deployments, onboarding, and troubleshooting.Aspiring cybersecurity professional with hands-on experience in vulnerability management, threat hunting, and email security. Skilled at identifying and remediating system weaknesses, analyzing threats, and improving detection workflows. Experience includes vulnerability scanning, patch management, phishing analysis, and threat intelligence, leveraging tools such as EDR and custom email filtering. Passionate about solving real-world security challenges through practical, technical work—with ongoing projects showcasing this commitment and more to come.
 
 * 🌍  I'm based in New Jersey
 * ✉️  You can contact me at [zubairoadekunle@gmail.com](mailto:zubairoadekunle@gmail.com)
@@ -26,4 +26,4 @@ IT professional with client-facing experience supporting cloud technologies (AWS
 ---
 
 <h2>📜 Certifications:</h2>
-- CompTIA Fundamental <br>- CompTIA Network+ <br> - CompTIA Security+: Expected Oct. 2025  
+- AWS Certified Cloud Practitioner <br> - AWS Certifies Solutions Architect - Associate <br> - CompTIA IT Fundamentals+ <br>- CompTIA Network+ <br> - CompTIA Security+: Expected Oct. 2025 <br> - Microsoft Certified: Azure Fundamental 
