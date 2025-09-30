@@ -25,7 +25,7 @@ IT professional with client-facing experience supporting cloud technologies (AWS
 
 ## ☁️💻 Cloud Computing 
 
-- **[Using Amazon Maci to detect Sensitive Data in S3 buckets)](https://github.com/abzubade/Threat-Hunting-Project/tree/main)**
+- **[Using Amazon Maci to detect Sensitive Data in S3 buckets)](https://github.com/abzubade/Amazon-Macie-to-Detect-Sensitive-Data-in-a-S3-Bucket)**
   
 ---
 
