@@ -15,7 +15,12 @@ IT professional with client-facing experience supporting cloud technologies (AWS
 * 🌍  I'm based in New Jersey
 * ✉️  You can contact me at [zubairoadekunle@gmail.com](mailto:zubairoadekunle@gmail.com)
 
+## 📈 Data Loss Prevention (DLP) Projects
+
+**[Using Amazon Maci to detect Sensitive Data in S3 buckets)](https://github.com/abzubade/Amazon-Macie-to-Detect-Sensitive-Data-in-a-S3-Bucket)**
+
 ## ⚠️  Vulnerability Management Projects
+
 
 - **[Vulnerability Management Program Implementation](https://github.com/abzubade/vulnerability-management-lab)**
 
@@ -25,7 +30,6 @@ IT professional with client-facing experience supporting cloud technologies (AWS
 
 ## ☁️💻 Cloud Computing 
 
-- **[Using Amazon Maci to detect Sensitive Data in S3 buckets)](https://github.com/abzubade/Amazon-Macie-to-Detect-Sensitive-Data-in-a-S3-Bucket)**
   
 ---
 
