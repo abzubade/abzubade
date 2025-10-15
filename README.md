@@ -10,8 +10,11 @@
 
 ---
 
-IT professional with client-facing experience supporting cloud technologies (AWS, Azure, Microsoft 365) and driving reliable deployments, onboarding, and troubleshooting.Aspiring cybersecurity professional with hands-on experience in vulnerability management, threat hunting, and email security. Skilled at identifying and remediating system weaknesses, analyzing threats, and improving detection workflows. Experience includes vulnerability scanning, patch management, phishing analysis, and threat intelligence, leveraging tools such as EDR and custom email filtering. Passionate about solving real-world security challenges through practical, technical work—with ongoing projects showcasing this commitment and more to come.
+IT professional with client-facing experience supporting and securing cloud environments across AWS, Azure, and Microsoft 365. Experienced working with Managed Service Providers (MSPs) to manage multi-tenant infrastructures, resolve complex end-user issues, and deliver reliable deployments and migrations.
 
+Hands-on with Intune MDM, Azure AD, Office 365, and AWS infrastructure (EC2, IAM, S3, CloudFront, Route 53), as well as patch management, VPNs, and endpoint hardening. Passionate about cybersecurity, with experience in vulnerability management, threat hunting, and email security using tools like EDR and SIEM.
+
+Currently building and documenting projects focused on secure cloud architecture, automation, and data protection, showcasing a commitment to solving real-world security challenges through practical, technical work.
 
 ## 📈 Data Loss Prevention (DLP) Projects
 
