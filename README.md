@@ -26,13 +26,8 @@ Currently building and documenting projects focused on secure cloud architecture
 
 ## 🚨  Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/abzubade/Threat-Hunting-Project/tree/main)**
-- **[Attack Maps and Log Visualization (Azure)](https://github.com/abzubade/Threat-Hunting-Project/tree/main)**
-    1. **Entra ID (Azure) Authentication Success**
-    2. **Entra ID (Azure) Authentication Failure**
-    3. **Azure Resource Creation**
-    4. **VM Authentication Failures**
-    5. **Malicious Traffic Enterring the Network**
+- **[Remote Code Execution](https://github.com/abzubade/Remote-Code-Execution/edit/main/README.md)**
+- 
 
 
   
