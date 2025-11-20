@@ -24,11 +24,12 @@ Currently building and documenting projects focused on secure cloud architecture
 
 - **[Vulnerability Management Program Implementation](https://github.com/abzubade/vulnerability-management-lab)**
 
-## 🚨  Threat Hunting and Security Operations
+## 🚨  Threat Hunting and Incident Response
 
 - **[Threat Hunt - Remote Code Execution](https://github.com/abzubade/Remote-Code-Execution/edit/main/README.md)**
 - **[Threat Hunt - Device Exposure To the Internet](https://github.com/abzubade/Device-Exposure/blob/main/README.md)**
 - **[Threat Hunt - Data Exfiltration from PIP'd Employee](https://github.com/abzubade/Suspected-Data-Exfiltration/edit/main/README.md)**
+- **[Incident Response - Brute Force Detection](https://github.com/abzubade/Suspected-Data-Exfiltration/edit/main/README.md)**
 
   
 
