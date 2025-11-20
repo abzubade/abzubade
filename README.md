@@ -27,8 +27,8 @@ Currently building and documenting projects focused on secure cloud architecture
 ## 🚨  Threat Hunting and Security Operations
 
 - **[Remote Code Execution](https://github.com/abzubade/Remote-Code-Execution/edit/main/README.md)**
-- **[Threat Hunt Device Exposure To the Internet](https://github.com/abzubade/Device-Exposure/blob/main/README.md)**
-
+- **[Threat Hunt - Device Exposure To the Internet](https://github.com/abzubade/Device-Exposure/blob/main/README.md)**
+- **[Threat Hunt - Data Exfiltration from PIP'd Employee](https://github.com/abzubade/Suspected-Data-Exfiltration/edit/main/README.md)**
 
   
 
