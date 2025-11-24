@@ -33,8 +33,6 @@ Currently building and documenting projects focused on secure cloud architecture
 
   
 
-## ☁️💻 Cloud Computing 
-
   
 ---
 
