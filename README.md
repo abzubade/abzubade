@@ -10,13 +10,11 @@
 
 ---
 
-IT professional with client-facing experience supporting and securing cloud environments across AWS, Azure, and Microsoft 365. Experienced working with Managed Service Providers (MSPs) to manage multi-tenant infrastructures, resolve complex end-user issues, and deliver reliable deployments and migrations.
+IT professional with strong client-facing experience supporting and securing cloud environments across AWS, Azure, and Microsoft 365. Proven background working with MSPs to manage multi-tenant infrastructures, troubleshoot complex end-user issues, and deliver dependable deployments and cloud migrations.
 
-Hands-on with Intune MDM, Azure AD, Office 365, and AWS infrastructure (EC2, IAM, S3, CloudFront, Route 53), as well as patch management, VPNs, and endpoint hardening. Passionate about cybersecurity, with experience in vulnerability management, threat hunting, and email security using tools like EDR and SIEM.
+Hands-on experience with Intune MDM, Azure AD/Entra ID, Office 365, and AWS services. Skilled in patch management, VPN configuration, and endpoint hardening, supported by a solid cybersecurity foundation in vulnerability management, threat hunting, and email security using EDR and SIEM platforms.
 
-Currently building and documenting projects focused on secure cloud architecture, automation, and data protection, showcasing a commitment to solving real-world security challenges through practical, technical work.
-
-## 📈 Data Loss Prevention (DLP) Projects
+Currently building and documenting cloud security, automation, and data-protection projects that demonstrate practical, technically driven approaches to addressing real-world security challenges.
 
 - **[Using Amazon Maci to detect Sensitive Data in S3 buckets)](https://github.com/abzubade/Amazon-Macie-to-Detect-Sensitive-Data-in-a-S3-Bucket)**
 
