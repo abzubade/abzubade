@@ -16,6 +16,8 @@ Hands-on experience with Intune MDM, Azure AD/Entra ID, Office 365, and AWS serv
 
 Currently building and documenting cloud security, automation, and data-protection projects that demonstrate practical, technically driven approaches to addressing real-world security challenges.
 
+## 🛡️📁 Data Loss Prevention
+
 - **[Using Amazon Maci to detect Sensitive Data in S3 buckets)](https://github.com/abzubade/Amazon-Macie-to-Detect-Sensitive-Data-in-a-S3-Bucket)**
 
 ## ⚠️  Vulnerability Management Projects
