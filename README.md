@@ -23,6 +23,7 @@ Currently building and documenting cloud security, automation, and data-protecti
 ## ⚠️  Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/abzubade/vulnerability-management-lab)**
+- **[STIG Vulnerability Remediation Codes](https://github.com/abzubade/STIGS/blob/main/README.md)**
 
 ## 🚨  Threat Hunting and Incident Response
 
